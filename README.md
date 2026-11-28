@@ -2,7 +2,7 @@
 
 Компактное Windows-приложение для перехода на малозаполненные публичные серверы Roblox.
 
-**[Скачать для Windows · ZIP](https://github.com/excellenceqq/egg-desk-updates/raw/refs/heads/main/ServerHopper-Windows.zip)**
+**[Скачать для Windows · ZIP](https://github.com/excellenceqq/egg-desk-updates/releases/latest/download/ServerHopper-Windows.zip)**
 
 Распакуйте архив и откройте **ServerHopper.exe**. Для входа в игру понадобится установленный Roblox. По умолчанию выбрана **Steal an Egg**.
 
